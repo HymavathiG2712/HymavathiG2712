@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**HymavathiG2712/HymavathiG2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HymavathiG2712/HymavathiG2712** 
 
 📚 Master in Data Science at [IUPUI](https://www.iupui.edu/index.html)
 👧 Pronoun: She/Her
