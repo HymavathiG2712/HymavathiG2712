@@ -14,10 +14,5 @@
 [<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-cdb-for-mysql-7.png" alt="MySQL" width="25">](https://www.mysql.com/) &nbsp;
 [<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau" width="25">](https://www.tableau.com/)
 
-### What I Use:
-- Python
-- SQL
-- Tableau
-
 
 
