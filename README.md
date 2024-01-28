@@ -2,7 +2,7 @@
 
 📚 Master in Data Science at [IUPUI](https://www.iupui.edu/index.html)
 👧 Pronoun: She/Her
-🔧 Skills: Python, SQL, Tableau, Machine Learning
+🔧 Skills: Python, SQL, Tableau, Machine Learning, Deep Learning
 
 ### Connect with me:
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" alt="LinkedIn" width="25">](https://www.linkedin.com/in/hymavathi-gummudala/) &nbsp;
