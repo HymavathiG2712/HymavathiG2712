@@ -1,8 +1,11 @@
 ### Hi there 👋
 📚 Bachelors in Electronics from [IIITDMJ](https://www.iiitdmj.ac.in/ )
+🖥️ Ex Employee at [Accenture](https://www.accenture.com/us-en)
 📚 Master in Data Science at [IUPUI](https://www.iupui.edu/index.html)
+
 👧 Pronoun: She/Her
-🔧 Skills: Python, SQL, Tableau, Machine Learning, Deep Learning
+🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning
+
 
 ### Connect with me:
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" alt="LinkedIn" width="25">](https://www.linkedin.com/in/hymavathi-gummudala/) &nbsp;
@@ -13,6 +16,3 @@
 [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="25">](https://www.python.org/) &nbsp;
 [<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-cdb-for-mysql-7.png" alt="MySQL" width="25">](https://www.mysql.com/) &nbsp;
 [<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau" width="25">](https://www.tableau.com/)
-
-
-
