@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+📚 Bachelors in Electronics from [IIITDMJ]https://www.iiitdmj.ac.in/ 
 📚 Master in Data Science at [IUPUI](https://www.iupui.edu/index.html)
 👧 Pronoun: She/Her
 🔧 Skills: Python, SQL, Tableau, Machine Learning, Deep Learning
