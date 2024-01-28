@@ -1,10 +1,14 @@
-### Hi there 👋
-📚 Bachelors in Electronics from [IIITDMJ](https://www.iiitdmj.ac.in/ )
-🖥️ Ex Employee at [Accenture](https://www.accenture.com/us-en)
-📚 Master in Data Science at [IUPUI](https://www.iupui.edu/index.html)
+### Hi there I am Hymu !👋
 
-👧 Pronoun: She/Her
-🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning
+• 📚 Bachelors in Electronics from [IIITDMJ](https://www.iiitdmj.ac.in/ )
+
+• 🖥️ Ex Employee at [Accenture](https://www.accenture.com/us-en)
+
+• 📚 Master in Data Science at [IUPUI](https://www.iupui.edu/index.html)
+
+• 👧 Pronoun: She/Her
+
+• 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning
 
 
 ### Connect with me:
