@@ -10,7 +10,7 @@
 
 • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning
 
-• 🌐 Portfolio : https://hymavathig2712.github.io/personal-website/
+• 🌐 Portfolio : [https://hymavathig2712.github.io/personal-website/](https://hymavathig2712.github.io/personal-website/#projects)
 
 • Linkedin : https://www.linkedin.com/in/hymavathi-gummudala/
 
