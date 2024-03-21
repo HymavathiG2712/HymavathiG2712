@@ -28,7 +28,7 @@
 [<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-cdb-for-mysql-7.png" alt="MySQL" width="25">](https://www.mysql.com/) &nbsp;
 [<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau" width="25">](https://www.tableau.com/)
 
-![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HymavathiG2712)](https://github.com/HymavathiG2712/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HymavathiG2712)](https://github.com/HymavathiG2712/github-readme-stats)-->
 
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HymavathiG2712)](https://github.com/HymavathiG2712/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HymavathiG2712)](https://github.com/HymavathiG2712/github-readme-stats)-->
