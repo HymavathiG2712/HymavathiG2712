@@ -16,7 +16,7 @@
 
 ![Hymu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HymavathiG2712&show_icons=true&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HymavathiG2712&layout=compact)
 
 ### Connect with me:
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" alt="LinkedIn" width="25">](https://www.linkedin.com/in/hymavathi-gummudala/) &nbsp;
