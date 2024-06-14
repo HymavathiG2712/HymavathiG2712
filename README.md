@@ -8,7 +8,7 @@
 
 • 👧 Pronoun: She/Her
 
-• 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning
+• 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, Informatica, AWS
 
 • 🌐 Portfolio : https://hymavathigummudala.me/
 
