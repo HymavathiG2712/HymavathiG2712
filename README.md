@@ -10,7 +10,7 @@
   • 👧 Pronoun: She/Her <br>
   • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, Informatica, AWS, Power BI <br>
   • 🌐 Portfolio: <a href="https://hymavathigummudala.me/">https://hymavathigummudala.me/</a><br>
-  • ✉️ Feel free to reachout me at **gummudalah@gmail.com** 
+  • 📩 Feel free to reach out to me at <a href="mailto:gummudalah@gmail.com">gummudalah@gmail.com</a>
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
