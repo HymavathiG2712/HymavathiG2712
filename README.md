@@ -1,5 +1,7 @@
 <h1>Hi there 👋, I am Hymu.</h1>
-<p>I'm a data scientist currently pursuing a master's in Data Science at Indiana University. My passion lies in crafting solutions amidst the complexities of big data. Seeking full-time opportunities in data science roles with teams tackling intricate challenges, crafting impactful solutions, and fostering a culture of collaboration, support, and ambition.</p>
+<p>I'm a data scientist who recently graduated in master's in Data Science from Indiana University. 
+  My passion lies in crafting solutions amidst the complexities of big data. 
+  Seeking full-time opportunities in data science roles with teams tackling intricate challenges, crafting impactful solutions, and fostering a culture of collaboration, support, and ambition.</p>
 
 <p>
   • 📚 Bachelors in Electronics from IIITDMJ <br>
