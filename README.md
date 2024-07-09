@@ -38,4 +38,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HymavathiG2712&show_icons=true&locale=en" alt="HymavathiG2712" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HymavathiG2712&" alt="HymavathiG2712" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HymavathiG2712&show_icons=true&locale=en&layout=compact" alt="HymavathiG2712" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HymavathiG2712" alt="HymavathiG2712" /></a></p>
