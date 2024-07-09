@@ -1,11 +1,15 @@
 <h1>Hi there 👋, I am Hymu.</h1>
-<p>I'm a data scientist currently pursuing masters in Data Science at Indiana University. My passion lies in crafting solutions amidst the complexities of big data. Seeking full time opportunities in data science roles with teams tackling intricate challenges, crafting impactful solutions, and fostering a culture of collaboration, support, and ambition.
-  • 📚 Bachelors in Electronics from IIITDMJ </br>
-  • 🖥️ Ex Employee at Accenture 
-  • 📚 Master in Data Science at IUPUI
-  • 👧 Pronoun: She/Her
-  • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, Informatica, AWS, Power BI 
-  • 🌐 Portfolio : https://hymavathigummudala.me/</p>
+<p>I'm a data scientist currently pursuing a master's in Data Science at Indiana University. My passion lies in crafting solutions amidst the complexities of big data. Seeking full-time opportunities in data science roles with teams tackling intricate challenges, crafting impactful solutions, and fostering a culture of collaboration, support, and ambition.</p>
+
+<p>
+  • 📚 Bachelors in Electronics from IIITDMJ <br>
+  • 🖥️ Ex-Employee at Accenture <br>
+  • 📚 Master in Data Science at IUPUI <br>
+  • 👧 Pronoun: She/Her <br>
+  • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, Informatica, AWS, Power BI <br>
+  • 🌐 Portfolio: <a href="https://hymavathigummudala.me/">https://hymavathigummudala.me/</a>
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
