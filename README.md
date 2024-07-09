@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I am Hymu.</h1>
 <p>I'm a data scientist currently pursuing masters in Data Science at Indiana University. My passion lies in crafting solutions amidst the complexities of big data. Seeking full time opportunities in data science roles with teams tackling intricate challenges, crafting impactful solutions, and fostering a culture of collaboration, support, and ambition.
-  • 📚 Bachelors in Electronics from IIITDMJ 
+  • 📚 Bachelors in Electronics from IIITDMJ </br>
   • 🖥️ Ex Employee at Accenture 
   • 📚 Master in Data Science at IUPUI
   • 👧 Pronoun: She/Her
