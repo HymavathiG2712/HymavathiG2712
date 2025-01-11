@@ -11,7 +11,7 @@ Feel free to connect with me to discuss opportunities
   • 🖥️ Ex-Employee at Accenture <br>
   • 📚 Master in Data Science at IUPUI <br>
   • 👧 Pronoun: She/Her <br>
-  • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, Informatica, AWS, Power BI <br>
+  • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, Informatica, AWS, Power BI, Access <br>
   • 🌐 Portfolio: <a href="https://hymavathigummudala.me/">https://hymavathigummudala.me/</a><br>
   • 📩 Feel free to reach out to me at <a href="mailto:gummudalah@gmail.com">gummudalah@gmail.com</a>
 </p>
