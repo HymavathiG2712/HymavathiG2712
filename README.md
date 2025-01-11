@@ -1,7 +1,10 @@
 <h1>Hi there 👋, I am Hymu.</h1>
-<p>I'm a data scientist who recently graduated in master's in Data Science from Indiana University. 
-  My passion lies in crafting solutions amidst the complexities of big data. 
-  Seeking full-time opportunities in data science roles with teams tackling intricate challenges, crafting impactful solutions, and fostering a culture of collaboration, support, and ambition.</p>
+<p>I am Hymavathi Gummudala, a Data Analyst at Arizona Western College (AWC).Previously, I had the privilege of serving as a Research Analyst and Teaching Assistant during my master’s in the Data Science Program at Indiana University.
+
+I bring expertise in Python, Machine Learning, Excel, Access, SQL, and BI tools, along with a strong ability to analyze complex datasets. My passion for learning and adaptability allows me to thrive in collaborative environments, and I am committed to continuous growth in the field of data science and analytics.
+
+Feel free to connect with me to discuss opportunities
+</p>
 
 <p>
   • 📚 Bachelors in Electronics from IIITDMJ <br>
