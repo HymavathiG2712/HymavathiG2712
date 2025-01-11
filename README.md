@@ -1,5 +1,6 @@
 <h1>Hi there 👋, I am Hymu.</h1>
-<p>I am Hymavathi Gummudala, a Data Analyst at Arizona Western College (AWC).Previously, I had the privilege of serving as a Research Analyst and Teaching Assistant during my master’s in the Data Science Program at Indiana University.
+<p>
+I am a Data Analyst at Arizona Western College (AWC) with a proven ability to leverage data-driven insights for informed decision-making, supported by 3 years of professional experience at Accenture delivering impactful data solutions.
 
 I bring expertise in Python, Machine Learning, Excel, Access, SQL, and BI tools, along with a strong ability to analyze complex datasets. My passion for learning and adaptability allows me to thrive in collaborative environments, and I am committed to continuous growth in the field of data science and analytics.
 
