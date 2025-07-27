@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I am Hymu.</h1>
+<h1>Hi there, I am Hymu.</h1>
 <p>
 I am a Data Analyst at Arizona Western College (AWC) with a proven ability to leverage data-driven insights for informed decision-making, supported by 3 years of professional experience at Accenture delivering impactful data solutions.
 
