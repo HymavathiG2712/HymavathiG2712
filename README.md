@@ -13,7 +13,6 @@ Feel free to connect with me to discuss opportunities
   • 📚 Master in Data Science at IUPUI <br>
   • 👧 Pronoun: She/Her <br>
   • 🔧 Skills: Python, SQL, R, Tableau, Excel, Machine Learning, AWS, Power BI, Microsoft Access <br>
-  • 🌐 Portfolio: <a href="https://hymavathigummudala.me/">https://hymavathigummudala.me/</a><br>
   • 📩 Feel free to reach out to me at <a href="mailto:gummudalah@gmail.com">gummudalah@gmail.com</a>
 </p>
 
